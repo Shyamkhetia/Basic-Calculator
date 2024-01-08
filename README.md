@@ -1,0 +1,1 @@
+This is a Basic Calculator made with the help of HTML,CSS and JAVASCRIPT. Where HTML is used to structure the elements present in the calculator like buttons, CSS is used to design those buttons properly and align it. Finally, JAVASCRIPT is used to configure all the functionality on all this buttons.
